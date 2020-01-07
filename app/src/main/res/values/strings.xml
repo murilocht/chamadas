@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Basicall</string>
+    <string name="empty_blacklist">Por favor, clique para adicionar um número na lista negra</string>
+
+    <string name="calls_log">Registro de chamadas</string>
+    <string name="contacts">Contatos</string>
+
+    <string name="positive_button">Escolher</string>
+
+    <string name="home">Lista negra</string>
+
+    <string name="text_title">Permissões necessárias</string>
+
+    <string name="text_message">Para o aplicativo bloquear chamadas e enviar avisos é necessário permissões: \n\n- READ_CALL_LOG\n- READ_CONTACTS\n- SEND_SMS</string>
+
+    <string name="message">Sua chamada foi bloqueada</string>
+</resources>
